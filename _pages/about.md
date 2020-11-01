@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Professor Tim Dodwell, Univesity of Exeter and The Alan Turing Institute"
+title: "Professor Tim Dodwell, Turing Institute and Exeter"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
