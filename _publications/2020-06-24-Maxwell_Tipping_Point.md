@@ -2,7 +2,7 @@
 title: "Maxwell tipping points: the hidden mechanics of an axially compressed cylindrical shell"
 collection: publications
 permalink: /publication/2020-06-24-Maxwell-Tipping-Cylinder
-excerpt: 'In this paper we study a recently discovered mechanics for highly unstable failure of a cylindrical shell under axial compression. We term the onset of this instability the Maxwell Tipping Point'
+excerpt: 'In this paper we study a new highly unstable mechanism for failure of a cylindrical shell under axial compression. We term the onset of this instability the Maxwell Tipping Point'
 date: 2020-06-24
 venue: 'Proc. R. Soc. A'
 paperurl: 'https://royalsocietypublishing.org/doi/10.1098/rspa.2020.0273'
