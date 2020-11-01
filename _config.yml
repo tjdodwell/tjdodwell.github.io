@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &proftimdodwell
+  username               : proftimdodwell
 facebook:
   username               :
   app_id                 :
@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Prof Tim Dodwell"
+  name             : "Tim Dodwell"
   avatar           : "profile.png"
-  bio              : "Chair in Datacentric Engineering"
+  bio              : "Applied Mathematician, Turing AI Fellow and Chair in Data Centric Engineering, University of Exeter"
   location         : "Exeter & London"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : ""
   googlescholar    : "https://scholar.google.co.uk/citations?user=lPpjRfUAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "tjdodwell"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "proftimdodwell"
   vine             :
   weibo            :
   xing             :
