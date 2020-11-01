@@ -12,4 +12,4 @@ Numerical results for the axially compressed cylindrical shell demonstrate the p
 
 [Download paper here](https://royalsocietypublishing.org/doi/pdf/10.1098/rspa.2020.0273)
 
-Recommended citation: Hunt G.W., Groh R. M. J. and Dodwell T. J., Maxwell tipping points: the hidden mechanics of an axially compressed cylindrical shell. <i>Proc. R. Soc. A</i> **476**: 20200273, 2020.
+**Recommended citation**: Hunt G.W., Groh R. M. J. and Dodwell T. J., Maxwell tipping points: the hidden mechanics of an axially compressed cylindrical shell. *Proc. R. Soc. A* **476**: 20200273, 2020.
