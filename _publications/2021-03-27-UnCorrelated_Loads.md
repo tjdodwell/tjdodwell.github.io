@@ -1,0 +1,16 @@
+---
+title: "Uncertainty quantification of spatially uncorrelated loads with a reduced-order stochastic isogeometric method"
+collection: publications
+permalink: /publication/2021-03-27-UnCorrelated_Loads
+excerpt: 'This work models spatially uncorrelated (independent) load uncertainty and develops a reduced-order Monte Carlo stochastic isogeometric method to quantify the effect of the load uncertainty on the structural response of thin shells and solid structures. The approach is tested on two demonstrative applications of uncertainty, namely, spatially uncorrelated loading, with (1) Scordelis–Lo Roof shell structure, and (2) a 3D wind turbine blade. This work has three novelties. Firstly, the research models spatially uncorrelated (independent) load uncertainties (including both their magnitude and/or direction) using stochastic analysis. Secondly, the paper advances'
+date: 2021-03-27
+venue: 'Computational Mechanics'
+paperurl: 'https://link.springer.com/article/10.1007/s00466-020-01944-9'
+citation: 'Ding, C., Tamma, K.K., Lian, H. et al. Uncertainty quantification of spatially uncorrelated loads with a reduced-order stochastic isogeometric method. <i>Comput Mech</i> (2021).'
+
+---
+This work models spatially uncorrelated (independent) load uncertainty and develops a reduced-order Monte Carlo stochastic isogeometric method to quantify the effect of the load uncertainty on the structural response of thin shells and solid structures. The approach is tested on two demonstrative applications of uncertainty, namely, spatially uncorrelated loading, with (1) Scordelis–Lo Roof shell structure, and (2) a 3D wind turbine blade. This work has three novelties. Firstly, the research models spatially uncorrelated (independent) load uncertainties (including both their magnitude and/or direction) using stochastic analysis. Secondly, the paper advances a reduced-order Monte Carlo stochastic isogeometric method to quantify the spatially uncorrelated load uncertainty. It inherits the merits of isogeometric analysis, which enables the precise representation of geometry and alleviates shell shear locking, thereby reducing the model’s uncertainties. Moreover, the method retains the generality and accuracy of classical Monte Carlo simulation (MCS), with significant efficiency gains. The demonstrative results suggest that there is a cost, which is 3% of the time used by the standard MCS. Furthermore, a significant observation is made from the conducted numerical tests. It is noticed that the standard deviation of the output (i.e., displacement) is strongly influenced when the load uncertainty is spatially uncorrelated. Namely, the standard derivation (SD) of the output is roughly 10 times smaller than the SD for correlated load uncertainties. Nonetheless, the expected values remain consistent between the two cases.
+
+[Download paper here](https://link.springer.com/content/pdf/10.1007/s00466-020-01944-9.pdf)
+
+**Recommended citation**: Ding, C., Tamma, K.K., Lian, H. et al. Uncertainty quantification of spatially uncorrelated loads with a reduced-order stochastic isogeometric method. Comput Mech (2021). https://doi.org/10.1007/s00466-020-01944-9
